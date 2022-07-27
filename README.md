@@ -1,4 +1,4 @@
-# Intern + Angular
+# Plateforme-d-échangeAngular
 
 This is a  project to demonstrate platefrome d'echange  using Angular 12+. It contains [all of the specs](https://angular.io/generated/live-examples/testing/app-specs.eplnkr.html) from Angular's test guide as well as [some extras](https://angular.io/generated/live-examples/testing/bag-specs.eplnkr.html). Specs have been reformatted and converted to using Intern best practices as outlined below.
 
